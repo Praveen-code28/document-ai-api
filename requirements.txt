@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pytesseract
+pillow
+python-docx
+pymupdf
+spacy
+transformers
+textblob
+python-dotenv
